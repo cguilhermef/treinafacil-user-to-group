@@ -1,0 +1,5 @@
+/node_modules
+db.json
+errors-*
+to-give.json
+*.xlsx
